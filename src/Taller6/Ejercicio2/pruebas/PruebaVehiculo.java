@@ -9,7 +9,7 @@ public class PruebaVehiculo {
         Moto m = new Moto("Deportiva", "Yamaha", 600);
 
         // Si se quita // se vera error de compilacion: no se accede a miembros protected desde clase no relacionada
-        
+
         // System.out.println(v.tipo);
         // System.out.println(m.marca);
         // v.mostrarInfo();
